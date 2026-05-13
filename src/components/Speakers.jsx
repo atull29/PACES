@@ -8,7 +8,7 @@ import speaker7 from "../assets/speakers/speaker7.webp";
 import speaker8 from "../assets/speakers/speaker8.jpeg";
 import speaker9 from "../assets/speakers/speaker9.jpeg";
 import speaker10 from "../assets/speakers/speaker10.webp";
-import speaker11 from "../assets/speakers/speaker11.jpeg";
+// import speaker11 from "../assets/speakers/speaker11.jpeg";
 import speaker12 from "../assets/speakers/speaker12.jpeg";
 import speaker13 from "../assets/speakers/speaker13.jpeg";
 import speaker14 from "../assets/speakers/speaker14.jpeg";
@@ -20,9 +20,9 @@ import speaker19 from "../assets/speakers/speaker19.jpeg";
 import speaker20 from "../assets/speakers/speaker20.jpeg";
 import speaker21 from "../assets/speakers/speaker21.jpeg";
 import speaker22 from "../assets/speakers/speaker22.jpeg";
-import speaker23 from "../assets/speakers/speaker23.jpeg";
-import speaker24 from "../assets/speakers/speaker24.jpeg";
-import speaker25 from "../assets/speakers/speaker25.jpeg";
+import speaker23 from "../assets/speakers/speaker23.png";
+import speaker24 from "../assets/speakers/speaker24.png";
+import speaker25 from "../assets/speakers/speaker25.png";
 import speaker26 from "../assets/speakers/speaker26.jpeg";
 import speaker27 from "../assets/speakers/speaker27.jpeg";
 import speaker28 from "../assets/speakers/speaker28.jpeg";
@@ -77,11 +77,11 @@ const speakers = [
     city: "AHMEDABAD",
     image: speaker10,
   },
-  {
-    name: "DR. INDRANIL HALDAR",
-    city: "KOLKATA",
-    image: speaker11,
-  },
+  // {
+  //   name: "DR. INDRANIL HALDAR",
+  //   city: "KOLKATA",
+  //   image: speaker11,
+  // },
   {
     name: "DR. VIJAY HADDA",
     city: "DELHI",
