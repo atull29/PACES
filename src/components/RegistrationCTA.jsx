@@ -168,7 +168,7 @@ const RegistrationCTA = () => {
         <div className="text-center">
 
           <a
-            href="https://q.me-qr.com/pki15ox9"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSetUkdxYNrVBSswsNoDgNL56AwQFjvys0XZBToP7ouinv0NBw/viewform?usp=header"
             target="_blank"
             rel="noreferrer"
           >
